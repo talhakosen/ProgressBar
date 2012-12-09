@@ -7,7 +7,7 @@
     android:padding="5dp" >
 
     <SeekBar
-        android:id="@+id/seekBar2"
+        android:id="@+id/progressBar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
